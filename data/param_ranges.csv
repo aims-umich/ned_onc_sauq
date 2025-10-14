@@ -1,0 +1,9 @@
+Parameter,Lower bound,Upper bound,Maximum,Nominal (375-760C),Nominal #2 (375-1000C),Nominal #3 (375-1600C),Notes
+Initial Temperature in Heated Section (K),873.15,1498.2,1600,567.5,687.5,987.5,The previous work went up to 760 but we could go higher if we wanted... this is the max temperature for TRISO particles
+HTC (W/m^2K),0.1,10,higher?,5.05,5.05,5.05,
+Glass thickness (m),0.001,0.004,higher?,0.002,0.002,0.002,
+Glass thermal conductivity (k:W/mK),1.4,3.2,3.7,2.4,2.8,N/A,
+Air Thermal conductivity (k:W/mK),0.02551,0.084520374,0.09909,0.05897,0.06364,0.07529,
+Air Viscosity (kg/ms),1.85E-05,5.16E-05,5.97E-05,3.74E-05,4.00E-05,4.64E-05,
+He Thermal conductivity (k:W/mK),0.15525,0.47859,N/A,0.31804,0.34882,N/A,
+He Viscosity (kg/ms),1.98E-05,6.15E-05,N/A,4.07E-05,4.46E-05,N/A,
