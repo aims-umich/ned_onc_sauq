@@ -1,0 +1,5 @@
+,Test R²,Test MAE,Test RMSE
+Neural Network: Time to Onset of Natural Circulation (s),0.986,64.0,86.5
+Neural Network: Temperature after ONC (K),0.993,10.1,16.3
+Random Forests: Time to Onset of Natural Circulation (s),0.985,64.0,89.8
+Random Forests: Temperature after ONC (K),0.964,24.2,36.4
