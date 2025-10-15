@@ -3,7 +3,7 @@ A repository for the journal paper published in Nuclear Engineering and Design w
 
 ## Paper
 
-Eaheart, M., Cooper, J., Ross, M., See, N., & Radaideh, M. (2025). Sensitivity analysis and uncertainty propagation of the time to onset of natural circulation in air ingress accidents. Nuclear Engineering and Design, accepted. 
+Eaheart, M., Cooper, J., Ross, M., See, N., & Radaideh, M. (2025). Sensitivity analysis and uncertainty propagation of the time to onset of natural circulation in air ingress accidents. *Nuclear Engineering and Design*, **445**, pp. 114510. https://doi.org/10.1016/j.nucengdes.2025.114510
 
 ## 🛠️ Environment Installation
 
